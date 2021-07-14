@@ -4,3 +4,5 @@
 
 // Modify by : Thanormsin.M
 // Modify Date : 11-Jul-21
+
+Important : ESP8266 IDE Firmware = 3.0.1
