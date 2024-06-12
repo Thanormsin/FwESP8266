@@ -3,4 +3,5 @@
 
 // Modify by : Thanormsin.M // Modify Date : 11-Jul-21
 
-Important : ESP8266 IDE will is Firmware = 3.0.1 Tools --> Board --> Board Managers --> ESP8266 --> V3.0.1 -
+Important : ESP8266 IDE will is Firmware = 3.0.1 
+Goto --> Tools --> Board --> Board Managers --> ESP8266 --> V3.0.1 -
